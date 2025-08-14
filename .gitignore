@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# Optional
+backend/node_modules/
+frontend/node_modules/
+*.env
+
+# VSCode
+.vscode/
