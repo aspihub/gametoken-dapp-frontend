@@ -1,3 +1,5 @@
+const socket = io('https://your-backend-url.com:4000'); // <-- set your backend API/server here!
+
 // Replace with your deployed contract addresses:
 const USDT_ADDRESS = "0x7b96aF9Bd211cBf6BA5b0dd53aa61Dc5806b6AcE"; 
 const GT_ADDRESS = "0x3328358128832A260C76A4141e19E2A943CD4B6D";
